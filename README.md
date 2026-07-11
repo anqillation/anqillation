@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anqillation
-- 👀 I’m interested in ... Modding MW2 even though I can't code for shite. 
-- 🌱 I’m currently learning ... How GSC scripting works and reading code. 
-- 💞️ I’m looking to collaborate on ... Nothing in particular, you wouldn't want dead weight on you. 
+- 👀 I’m interested in ... 
+- 🌱 I’m currently learning ... 
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... Please don't.
 
 <!---
